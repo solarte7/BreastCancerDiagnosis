@@ -1,4 +1,4 @@
-# BreastCancerDiagnosis
+# Breast Cancer Diagnosis
 Deep learning to extract Breast Cancer diagnosis concepts
 
 This repository contains code about  a proposal to extract breast cancer diagnosis concepts using  <strong>BERT</strong> models trained on an extrarnal corpus  corpus (lung cancer). We show the possibility of applying deep learning-based models to predict cancer concepts in a different dataset to the one they were trained on. <br>
