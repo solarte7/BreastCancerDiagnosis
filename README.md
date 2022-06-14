@@ -5,7 +5,7 @@ This repository contains code about  a proposal to extract breast cancer diagnos
 
 This proposal is based on <strong>transfer learning</strong> techique. Figure 1 describes the proposal in this repository.
 
-The cancer datasets used in this study contains clinial notes from patients treated with lung and breast cancer.  These datasets are affected by General Data Protection Regulation (GDPR) and is available only "upon request". These dataset can be accessible after an evaluation by the hospital's ethics committee. <br></br>
+The cancer datasets used in this study contains clinial notes from patients treated with lung and breast cancer.  These datasets are affected by General Data Protection Regulation (GDPR) and are available only "upon request". These dataset can be accessible after an evaluation by the hospital's ethics committee. <br></br>
 
 More information, please write to oswaldo.solartep@alumnos.upm.es
 
