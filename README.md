@@ -8,5 +8,5 @@ The cancer datasets used in this study contains clinial notes from patients trea
 
 More information, please write to oswaldo.solartep@alumnos.upm.es
 
-<center> <img src="img/approach.png" width="400" height="300"> </center>
+<center> <img src="img/transformer-approach.png" width="400" height="300"> </center>
 <br> <br>
