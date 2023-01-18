@@ -1,4 +1,4 @@
-#Transformers for Extracting Breast Cancer Information 
+# Transformers for Extracting Breast Cancer Information 
 
 This repository contains code for extracting breast cancer information using  <strong>Transformers</strong> models. We show the possibility of applying deep learning-based models to extract cancer named entities from Spanish clinical narrativas. A breast cancer corpus has been developed to support clinial named entity recognition. <br>
 
@@ -10,3 +10,14 @@ More information, please write to oswaldo.solartep@alumnos.upm.es
 
 <center> <img src="img/transformer-approach.png" width="500" height="400"> </center>
 <br> <br>
+
+
+## Code description
+
+This stats are generated with [Spacy](https://spacy.io/) NLP Python Library.
+
+In [k-fold folder](./k-fold/) you can find the code to performing a K-fold validation.
+
+
+
+
