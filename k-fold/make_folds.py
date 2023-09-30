@@ -7,7 +7,7 @@ from sklearn.model_selection import KFold
 
 __K = int(sys.argv[1])
 __MODEL_PATH = "es_core_news_lg"
-__DATASET_PATH = "breast_oswaldo.spacy"
+__DATASET_PATH = str(sys.argv[2)) #"breast_oswaldo.spacy"
 
 print("__K=", str(__K))
 
